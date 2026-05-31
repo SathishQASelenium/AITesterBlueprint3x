@@ -1,0 +1,10 @@
+<!DOCTYPE suite>
+<suite name="Restful Booker Suite">
+    <test name="API Tests">
+        <classes>
+            <class name="com.ricepot.api.tests.PingTests"/>
+            <class name="com.ricepot.api.tests.AuthTests"/>
+            <class name="com.ricepot.api.tests.BookingTests"/>
+        </classes>
+    </test>
+</suite>
