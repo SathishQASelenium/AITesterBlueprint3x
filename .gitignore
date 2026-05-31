@@ -1,0 +1,7 @@
+target/
+.claude/
+*.class
+.idea/
+*.iml
+bin/
+```
